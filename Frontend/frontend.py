@@ -8,7 +8,7 @@ app = FastAPI()
 form_html = """
     <html>
     <body>
-        <h2>Sign Up</h2>
+        <h2>Sign Up1</h2>
         <form method="post" action="/signup">
             Username: <input name="username"><br>
             Password: <input name="password" type="password"><br>
